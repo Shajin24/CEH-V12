@@ -1,0 +1,8 @@
+hydra -L user.txt -P pass.txt smb://<ip>
+smbclient -U username -L <ip>
+smbclient -U username \\\\ip\\disk name
+dir (or) ls
+cd 
+get filename
+
+BC text encoder
