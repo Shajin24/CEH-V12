@@ -1,0 +1,6 @@
+Analyze a IOT file ----file-open filename
+filter it as MQTT
+CMD: mqtt
+in info Go to publish message
+then go to a MQ Telemtry transport protocol
+here we go we got the msg length.
