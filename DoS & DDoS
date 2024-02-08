@@ -1,0 +1,31 @@
+(DDoS) tcp.flags.syn == 1 and tcp.flags.ack == 0    (How many machines) or Go to statistics IPv4 addresses--> Source and Destination ---> Then you can apply the filter given
+(DoS) tcp.flags.syn == 1   (Which machine for dos)
+http.request.method == POST   (for passwords) or click tools ---> credentials
+Also
+
+
+
+CREDENTIALS 
+
+To find a login credentials usernma and passsword 
+open the given file in wireshark 
+http.request.method == POST   (for passwords) or click tools ---> credentials
+go to hypertext transfer protocol 
+at the end you can find here we go boom
+
+DoS
+
+Go to statistics 
+IPv4 addresses
+Source and Destination
+Then you can apply the filter given
+tcp.flags.syn == 1 and tcp.flags.ack == 0 (hint hights count)
+
+DDoS
+
+
+
+tcp.flags.syn == 1 and tcp.flags.ack == 0    (How many machines) or Go to statistics IPv4 addresses--> Source and Destination ---> Then you can apply the filter given
+tcp.flags.syn == 1   (Which machine for dos)
+http.request.method == POST   (for passwords) or click tools ---> credentials
+Also
