@@ -1,0 +1,9 @@
+The command you've provided, "adb connect ip:5555," is used to connect an Android device to your computer over the Android Debug Bridge (ADB) via a specified IP address and port (5555 in this case). This command is typically used when you want to connect to an Android device wirelessly.
+CMD: 
+1: adb connect ip:5555
+2: adb shell
+(you may see in sd or down)
+3: adb pull name/of/dir (if you stuck use sudo -i)
+4: install ent (apt install ent)
+5: ent file.elf (check all the elf file and choose a highest value)
+6: sha384sum file.elf (highest entropy value file)
