@@ -1,0 +1,7 @@
+Find for nmap ssh port open 
+nmap -sV -p 22 ip/24
+connect to ssh port 
+CMD : ssh username@ip
+enter the password
+
+sudo -l (look for for checking permission) 
